@@ -11,7 +11,7 @@ int main()
        }
     else
        {
-       cout<<"you are noneligible for voting:";
+       cout<<"you are no neligible for voting:";
        }
     return 0;
 }
